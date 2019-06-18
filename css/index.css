@@ -350,3 +350,10 @@ img {
   background: #FFFFFF;
   color: #17A2B8;
 }
+#image {
+  height: 256px;
+  width: 256px;
+
+  background: 
+  url('/img/girl.png') 0px 0px;
+}
