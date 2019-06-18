@@ -94,3 +94,5 @@ function animateScript() {
         }
     }, interval )
 } 
+
+// end
